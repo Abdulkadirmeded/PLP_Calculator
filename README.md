@@ -11,13 +11,6 @@ A simple Python calculator that performs basic mathematical operations.
 - Error handling for invalid inputs
 - Division by zero protection
 
-## How to Run
-
-1. Make sure you have Python installed on your system
-2. Open a terminal/command prompt
-3. Navigate to the calculator directory
-4. Run the program:
-
 ```bash
 python calculator.py
 ```
